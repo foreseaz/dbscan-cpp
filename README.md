@@ -1,5 +1,5 @@
 # DBSCAN
-DBSCAN from scratch -- CMSC 5724 Course Project
+DBSCAN from scratch
 
 ## How to use
 1. cd to main.cpp
